@@ -1,5 +1,5 @@
 {
-  "name": "bcrypt",
+  "name": "tinder_bcrypt",
   "description": "A bcrypt library for NodeJS.",
   "keywords": [
     "bcrypt",
